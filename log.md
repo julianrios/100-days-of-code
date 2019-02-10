@@ -1,30 +1,156 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: February 4, 2019 - Monday 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Created files, directories, and used Git on the terminal. Started Java Fundamentals
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Git branching was difficult to visualize. Try mapping things out if you need a view. Need to improve on creating and removing files/directories from the terminal. Casting is not as accurate than using a primitive's object class.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work:** 
+1. [Console Walkthrough](https://github.com/julianrios/CR-MesoLabs-Console.git)
+2. [BlueJ.DanDoBetter](https://github.com/julianrios/BlueJ.DanDoBetter.git)
 
 
-### Day 1: June 27, Monday
+### Day 1: February 5, 2018 - Tuesday 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Completed exercises involving predicates, Strings, and math. Started to handle user input.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: I need to familiarize myself with the different classes the Java library offers instead of implementing my own solutions first. String Builder simplified reversing a string. Validation is key when dealing with user input.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: 
+1. [BlueJ.DanDoBetter](https://github.com/julianrios/BlueJ.DanDoBetter.git)
+2. [BlueJ.AliceAndBob](https://github.com/julianrios/BlueJ.AliceAndBob.git)
+
+
+### Day 2: February 6, 2018 - Wednesday
+
+**Today's Progress**: Completed exercises involving user input and started handling string formatting.
+
+**Thoughts**: Walked through chapter 2 of BlueJ, answered questions about an objects, and manipulated the object via BlueJ. String formatting and nested loops can be tricky. Remember that %<number> number is a place holder for the field width. Useful tip outside loop handles rows inside loop handles columns or a wall scrolling game like mario. 
+You must complete a level before you move on to the next world: 1-1 --> 1-2 
+
+**Link(s) to work**: 
+1. [NaiveTicket](https://github.com/julianrios/NaiveTicket.git)
+2. [BlueJ.DanDoBetter](https://github.com/julianrios/BlueJ.DanDoBetter.git)
+3. [BlueJ.SumOfInput](https://github.com/julianrios/BlueJ.SumOfInput.git)
+4. [BlueJ.NumbersTrianglesTables](https://github.com/julianrios/BlueJ.NumbersTrianglesTables.git)
+
+
+### Day 3: February 7, 2018 - Thursday
+
+**Today's Progress**: Completed exercises involving Math operations with BigIntegers, converting numbers into String hex/octcal/binary, using static methods from the Math class.
+
+**Thoughts**: Using ternary operators with three variables is easier to read when you use two tenary operators one to store the value from the first set of values then one to check the result of the first set and the third variable. When handling BigIntegers you MUST use the methods provided in the BigInteger class to handle arithmetic operations on those variables. There is also constants for ZERO, ONE, and TEN.
+
+**Link(s) to work**: 
+1. [BlueJ.BasicComputations](https://github.com/julianrios/BlueJ.BasicComputations.git)
+
+
+### Day 4: February 8, 2018 - Friday
+
+**Today's Progress**: Worked on Traversing through an array 
+
+**Thoughts**: Draw things out exactly what an array is doing when manipulating an array to do something for you. The visual aid will simply the process of working through an array with a loop or nested loop that is handling multiple indexes.
+
+**Link(s) to work**: 
+1. [BlueJ.StringArrayUtils](https://github.com/julianrios/BlueJ.StringArrayUtils.git)
+
+
+### Day 5: February 9, 2019 - Saturday 
+
+**Today's Progress**: Created a branch outside of master, worked with PrintStream & InputStream, and worked logic processing of a calculator
+
+**Thoughts:** Need to pratice more on branching and pull request be weary of where a pull request will go when you merge it with master. Always do a git fetch & git pull before a git push. PrintStream and Input Stream are essentially System.out and System.in need to formalize myself with more of this.
+
+**Link(s) to work:** 
+1. [BlueJ.ScientificCalculator](https://github.com/julianrios/BlueJ.ScientificCalculator.git)
+2. [BlueJ.IOConsole](https://github.com/julianrios/BlueJ.IOConsole.git)
+
+
+### Day 6: February 10, 2018 - Sunday 
+
+**Today's Progress**: Completed exercises involving predicates, Strings, and math. Started to handle user input.
+
+**Thoughts**: I need to familiarize myself with the different classes the Java library offers instead of implementing my own solutions first. String Builder simplified reversing a string. Validation is key when dealing with user input.
+
+**Link() to work:** 
+1. [BlueJ.ScientificCalculator](https://github.com/julianrios/BlueJ.ScientificCalculator.git)
+2. [BlueJ.IOConsole](https://github.com/julianrios/BlueJ.IOConsole.git)
+
+
+<!-- ### Day 0: February 4, 2019 - Monday 
+
+**Today's Progress**: Created files, directories, and used Git on the terminal. Started Java Fundamentals
+
+**Thoughts:** Git branching was difficult to visualize. Try mapping things out if you need a view. Need to improve on creating and removing files/directories from the terminal. Casting is not as accurate than using a primitive's object class.
+
+**Link(s) to work:** 
+1. [Console Walkthrough](https://github.com/julianrios/CR-MesoLabs-Console.git)
+2. [BlueJ.DanDoBetter](https://github.com/julianrios/BlueJ.DanDoBetter.git)
+
+
+### Day 1: February 5, 2018 - Tuesday 
+
+**Today's Progress**: Completed exercises involving predicates, Strings, and math. Started to handle user input.
+
+**Thoughts**: I need to familiarize myself with the different classes the Java library offers instead of implementing my own solutions first. String Builder simplified reversing a string. Validation is key when dealing with user input.
+
+**Link(s) to work**: 
+1. [BlueJ.DanDoBetter](https://github.com/julianrios/BlueJ.DanDoBetter.git)
+2. [BlueJ.AliceAndBob](https://github.com/julianrios/BlueJ.AliceAndBob.git)
+
+
+### Day 2: February 6, 2018 - Wednesday
+
+**Today's Progress**: Completed exercises involving user input and started handling string formatting.
+
+**Thoughts**: Walked through chapter 2 of BlueJ, answered questions about an objects, and manipulated the object via BlueJ. String formatting and nested loops can be tricky. Remember that %<number> number is a place holder for the field width. Useful tip outside loop handles rows inside loop handles columns or a wall scrolling game like mario. 
+You must complete a level before you move on to the next world: 1-1 --> 1-2 
+
+**Link(s) to work**: 
+1. [NaiveTicket](https://github.com/julianrios/NaiveTicket.git)
+2. [BlueJ.DanDoBetter](https://github.com/julianrios/BlueJ.DanDoBetter.git)
+3. [BlueJ.SumOfInput](https://github.com/julianrios/BlueJ.SumOfInput.git)
+4. [BlueJ.NumbersTrianglesTables](https://github.com/julianrios/BlueJ.NumbersTrianglesTables.git)
+
+
+### Day 3: February 7, 2018 - Thursday
+
+**Today's Progress**: Completed exercises involving Math operations with BigIntegers, converting numbers into String hex/octcal/binary, using static methods from the Math class.
+
+**Thoughts**: Using ternary operators with three variables is easier to read when you use two tenary operators one to store the value from the first set of values then one to check the result of the first set and the third variable. When handling BigIntegers you MUST use the methods provided in the BigInteger class to handle arithmetic operations on those variables. There is also constants for ZERO, ONE, and TEN.
+
+**Link(s) to work**: 
+1. [BlueJ.BasicComputations](https://github.com/julianrios/BlueJ.BasicComputations.git)
+
+
+### Day 4: February 8, 2018 - Friday
+
+**Today's Progress**: Worked on Traversing through an array 
+
+**Thoughts**: Draw things out exactly what an array is doing when manipulating an array to do something for you. The visual aid will simply the process of working through an array with a loop or nested loop that is handling multiple indexes.
+
+**Link(s) to work**: 
+1. [BlueJ.StringArrayUtils](https://github.com/julianrios/BlueJ.StringArrayUtils.git)
+
+
+### Day 5: February 9, 2019 - Saturday 
+
+**Today's Progress**: Created a branch outside of master, worked with PrintStream & InputStream, and worked logic processing of a calculator
+
+**Thoughts:** Need to pratice more on branching and pull request be weary of where a pull request will go when you merge it with master. Always do a git fetch & git pull before a git push. PrintStream and Input Stream are essentially System.out and System.in need to formalize myself with more of this.
+
+**Link(s) to work:** 
+1. [BlueJ.ScientificCalculator](https://github.com/julianrios/BlueJ.ScientificCalculator.git)
+2. [BlueJ.IOConsole](https://github.com/julianrios/BlueJ.IOConsole.git)
+
+
+### Day 6: February 10, 2018 - Sunday 
+
+**Today's Progress**: Completed exercises involving predicates, Strings, and math. Started to handle user input.
+
+**Thoughts**: I need to familiarize myself with the different classes the Java library offers instead of implementing my own solutions first. String Builder simplified reversing a string. Validation is key when dealing with user input.
+
+**Link(s) to work:** 
+1. [BlueJ.ScientificCalculator](https://github.com/julianrios/BlueJ.ScientificCalculator.git)
+2. [BlueJ.IOConsole](https://github.com/julianrios/BlueJ.IOConsole.git) -->
