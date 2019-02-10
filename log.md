@@ -67,7 +67,7 @@ You must complete a level before you move on to the next world: 1-1 --> 1-2
 2. [BlueJ.IOConsole](https://github.com/julianrios/BlueJ.IOConsole.git)
 
 
-### Day 6: February 10, 2018 - Sunday 
+<!-- ### Day 6: February 10, 2018 - Sunday 
 
 **Today's Progress**: Completed exercises involving predicates, Strings, and math. Started to handle user input.
 
@@ -76,7 +76,7 @@ You must complete a level before you move on to the next world: 1-1 --> 1-2
 **Link() to work:** 
 1. [BlueJ.ScientificCalculator](https://github.com/julianrios/BlueJ.ScientificCalculator.git)
 2. [BlueJ.IOConsole](https://github.com/julianrios/BlueJ.IOConsole.git)
-
+ -->
 
 <!-- ### Day 0: February 4, 2019 - Monday 
 
