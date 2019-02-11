@@ -67,29 +67,30 @@ You must complete a level before you move on to the next world: 1-1 --> 1-2
 2. [BlueJ.IOConsole](https://github.com/julianrios/BlueJ.IOConsole.git)
 
 
-<!-- ### Day 6: February 10, 2018 - Sunday 
+### Day 6: February 10, 2018 - Sunday 
 
-**Today's Progress**: Completed exercises involving predicates, Strings, and math. Started to handle user input.
+**Today's Progress**: Demoed and submitted group final version of Scientific Calculator
 
-**Thoughts**: I need to familiarize myself with the different classes the Java library offers instead of implementing my own solutions first. String Builder simplified reversing a string. Validation is key when dealing with user input.
-
-**Link() to work:** 
-1. [BlueJ.ScientificCalculator](https://github.com/julianrios/BlueJ.ScientificCalculator.git)
-2. [BlueJ.IOConsole](https://github.com/julianrios/BlueJ.IOConsole.git)
- -->
-
-<!-- ### Day 0: February 4, 2019 - Monday 
-
-**Today's Progress**: Created files, directories, and used Git on the terminal. Started Java Fundamentals
-
-**Thoughts:** Git branching was difficult to visualize. Try mapping things out if you need a view. Need to improve on creating and removing files/directories from the terminal. Casting is not as accurate than using a primitive's object class.
+**Thoughts**: When forking from another person's repo and trying to pull their changes remember ```git remote add [person-name] [their git url]```
+```git pull [person name] master```
+or ```git pull [their url] master``` when merging dev to master ```push from dev``` ```merge to master``` ```checkout master``` ```pull``` ```add and commit all new changes```  and ```push``` 
 
 **Link(s) to work:** 
-1. [Console Walkthrough](https://github.com/julianrios/CR-MesoLabs-Console.git)
-2. [BlueJ.DanDoBetter](https://github.com/julianrios/BlueJ.DanDoBetter.git)
+1. [BlueJ.ScientificCalculator](https://github.com/julianrios/BlueJ.ScientificCalculator.git)
 
 
-### Day 1: February 5, 2018 - Tuesday 
+### Day 8: February 4, 2019 - Monday 
+
+**Today's Progress**: Completed a quiz based on various lessons covered throughout lastweek.
+
+**Thoughts:** The acronym method was tricky. Remember to utilize the java library before you try to reinvent the wheel some methods maybe available to simply problems. Also become more familiar with the Caesar cipher and other cipher methods. Completed one method to remove consecutive duplicates with an ArrayList need to figure out how to with an array.
+
+**Link(s) to work:** 
+1. [BlueJ.Quiz1](https://github.com/julianrios/BlueJ.Quiz1.git)
+2. [BlueJ.StringArrayUtils](https://github.com/julianrios/BlueJ.StringArrayUtils.git)
+
+
+<!-- ### Day 1: February 9, 2018 - Tuesday 
 
 **Today's Progress**: Completed exercises involving predicates, Strings, and math. Started to handle user input.
 
@@ -105,7 +106,7 @@ You must complete a level before you move on to the next world: 1-1 --> 1-2
 **Today's Progress**: Completed exercises involving user input and started handling string formatting.
 
 **Thoughts**: Walked through chapter 2 of BlueJ, answered questions about an objects, and manipulated the object via BlueJ. String formatting and nested loops can be tricky. Remember that %<number> number is a place holder for the field width. Useful tip outside loop handles rows inside loop handles columns or a wall scrolling game like mario. 
-You must complete a level before you move on to the next world: 1-1 --> 1-2 
+You must complete a level before you move on to the next world: 1-1 1-2 
 
 **Link(s) to work**: 
 1. [NaiveTicket](https://github.com/julianrios/NaiveTicket.git)
@@ -155,3 +156,4 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 
 **Link(s) to work:** 
 1. [BlueJ.ScientificCalculator](https://github.com/julianrios/BlueJ.ScientificCalculator.git)
+ -->
