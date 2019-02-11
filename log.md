@@ -147,10 +147,11 @@ You must complete a level before you move on to the next world: 1-1 --> 1-2
 
 ### Day 6: February 10, 2018 - Sunday 
 
-**Today's Progress**: Completed exercises involving predicates, Strings, and math. Started to handle user input.
+**Today's Progress**: Demoed and submitted group final version of Scientific Calculator
 
-**Thoughts**: I need to familiarize myself with the different classes the Java library offers instead of implementing my own solutions first. String Builder simplified reversing a string. Validation is key when dealing with user input.
+**Thoughts**: When forking from another person's repo and trying to pull their changes remember ```git remote add [person-name] [their git url]```
+```git pull [person name] master```
+or ```git pull [their url] master``` when merging dev to master ```push from dev``` ```merge to master``` ```checkout master``` ```pull``` ```add and commit all new changes```  and ```push``` 
 
 **Link(s) to work:** 
 1. [BlueJ.ScientificCalculator](https://github.com/julianrios/BlueJ.ScientificCalculator.git)
-2. [BlueJ.IOConsole](https://github.com/julianrios/BlueJ.IOConsole.git) -->
