@@ -79,7 +79,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [BlueJ.ScientificCalculator](https://github.com/julianrios/BlueJ.ScientificCalculator.git)
 
 
-### Day 8: February 4, 2019 - Monday 
+### Day 7: February 4, 2019 - Monday 
 
 **Today's Progress**: Completed a quiz based on various lessons covered throughout lastweek.
 
@@ -90,32 +90,30 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 2. [BlueJ.StringArrayUtils](https://github.com/julianrios/BlueJ.StringArrayUtils.git)
 
 
-<!-- ### Day 1: February 9, 2018 - Tuesday 
+### Day 8: February 9, 2018 - Tuesday 
 
-**Today's Progress**: Completed exercises involving predicates, Strings, and math. Started to handle user input.
+**Today's Progress**: Completed loop exercises involving while, for, and for each loops.
 
-**Thoughts**: I need to familiarize myself with the different classes the Java library offers instead of implementing my own solutions first. String Builder simplified reversing a string. Validation is key when dealing with user input.
-
-**Link(s) to work**: 
-1. [BlueJ.DanDoBetter](https://github.com/julianrios/BlueJ.DanDoBetter.git)
-2. [BlueJ.AliceAndBob](https://github.com/julianrios/BlueJ.AliceAndBob.git)
-
-
-### Day 2: February 6, 2018 - Wednesday
-
-**Today's Progress**: Completed exercises involving user input and started handling string formatting.
-
-**Thoughts**: Walked through chapter 2 of BlueJ, answered questions about an objects, and manipulated the object via BlueJ. String formatting and nested loops can be tricky. Remember that %<number> number is a place holder for the field width. Useful tip outside loop handles rows inside loop handles columns or a wall scrolling game like mario. 
-You must complete a level before you move on to the next world: 1-1 1-2 
+**Thoughts**: Learned that when looping through an array with for each the returned value is dependent on the type of object that the loop is iterating over. You must use .toString() on the returned type in order to get a string representation of it.
 
 **Link(s) to work**: 
-1. [NaiveTicket](https://github.com/julianrios/NaiveTicket.git)
-2. [BlueJ.DanDoBetter](https://github.com/julianrios/BlueJ.DanDoBetter.git)
-3. [BlueJ.SumOfInput](https://github.com/julianrios/BlueJ.SumOfInput.git)
-4. [BlueJ.NumbersTrianglesTables](https://github.com/julianrios/BlueJ.NumbersTrianglesTables.git)
+1. [BlueJ.IteratingPersonArray](https://github.com/julianrios/BlueJ.IteratingPersonArray.git)
+2. [BlueJ.StringArrayUtils](https://github.com/julianrios/BlueJ.StringArrayUtils.git)
+3. [Maven.StringsAndThings](https://github.com/julianrios/Maven.StringsAndThings.git)
 
 
-### Day 3: February 7, 2018 - Thursday
+### Day 9: February 10, 2018 - Wednesday
+
+**Today's Progress**: Completed the remaining exercise on iterating through a String and started work on TDD.
+
+**Thoughts**: When using loops it is best practice to write it to see what every iteration is doing. Write out the string up to the index out of bounds. Remember as long as you don't access the index past the length you can not get out of bounds. When looping through an string try to be flexible work forward or backwards. If you are looking for a specific word look for the last letter and the letters before it to avoid checking something out of bounds.
+
+**Link(s) to work**: 
+1. [Maven.StringsAndThings](https://github.com/julianrios/Maven.StringsAndThings.git)
+2. [Maven.TestingPersonClass](https://github.com/Zipcoder/Maven.TestingPersonClass)
+
+
+<!-- ### Day 3: February 7, 2018 - Thursday
 
 **Today's Progress**: Completed exercises involving Math operations with BigIntegers, converting numbers into String hex/octcal/binary, using static methods from the Math class.
 
