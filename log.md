@@ -79,7 +79,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [BlueJ.ScientificCalculator](https://github.com/julianrios/BlueJ.ScientificCalculator.git)
 
 
-### Day 7: February 4, 2019 - Monday 
+### Day 7: February 11, 2019 - Monday 
 
 **Today's Progress**: Completed a quiz based on various lessons covered throughout lastweek.
 
@@ -90,7 +90,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 2. [BlueJ.StringArrayUtils](https://github.com/julianrios/BlueJ.StringArrayUtils.git)
 
 
-### Day 8: February 9, 2018 - Tuesday 
+### Day 8: February 12, 2018 - Tuesday 
 
 **Today's Progress**: Completed loop exercises involving while, for, and for each loops.
 
@@ -102,7 +102,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 3. [Maven.StringsAndThings](https://github.com/julianrios/Maven.StringsAndThings.git)
 
 
-### Day 9: February 10, 2018 - Wednesday
+### Day 9: February 13, 2018 - Wednesday
 
 **Today's Progress**: Completed the remaining exercise on iterating through a String and started work on TDD.
 
@@ -113,17 +113,19 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 2. [Maven.TestingPersonClass](https://github.com/Zipcoder/Maven.TestingPersonClass)
 
 
-<!-- ### Day 3: February 7, 2018 - Thursday
+### Day 10: February 14, 2018 - Thursday
 
-**Today's Progress**: Completed exercises involving Math operations with BigIntegers, converting numbers into String hex/octcal/binary, using static methods from the Math class.
+**Today's Progress**: Completed TDD exercises, revisited some old concepts, and dove deep into a new collection. Tested my abilities on hackerrank.
 
-**Thoughts**: Using ternary operators with three variables is easier to read when you use two tenary operators one to store the value from the first set of values then one to check the result of the first set and the third variable. When handling BigIntegers you MUST use the methods provided in the BigInteger class to handle arithmetic operations on those variables. There is also constants for ZERO, ONE, and TEN.
+**Thoughts**: TDD is alittle strange at first but once I started to get used to the concept of testing before implement I can see why it is so important to test you code for an expected action before implementing methods to generate those actual results. Should get easier as I practice more.
 
 **Link(s) to work**: 
-1. [BlueJ.BasicComputations](https://github.com/julianrios/BlueJ.BasicComputations.git)
+1. [Maven.TDD-AnimalFactory](https://github.com/julianrios/Maven.TDD-AnimalFactory.git)
+2. [Maven.TestingPersonClass](https://github.com/julianrios/Maven.TestingPersonClass.git)
+3. [Hackerrank](https://www.hackerrank.com/julianrios_dev)
 
 
-### Day 4: February 8, 2018 - Friday
+### Day 11: February 15, 2018 - Friday
 
 **Today's Progress**: Worked on Traversing through an array 
 
@@ -133,7 +135,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [BlueJ.StringArrayUtils](https://github.com/julianrios/BlueJ.StringArrayUtils.git)
 
 
-### Day 5: February 9, 2019 - Saturday 
+<!-- ### Day 5: February 9, 2019 - Saturday 
 
 **Today's Progress**: Created a branch outside of master, worked with PrintStream & InputStream, and worked logic processing of a calculator
 
