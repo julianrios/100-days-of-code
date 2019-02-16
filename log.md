@@ -127,12 +127,13 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 
 ### Day 11: February 15, 2018 - Friday
 
-**Today's Progress**: Worked on Traversing through an array 
+**Today's Progress**: Worked on implementing unit tests before writing code. 
 
-**Thoughts**: Draw things out exactly what an array is doing when manipulating an array to do something for you. The visual aid will simply the process of working through an array with a loop or nested loop that is handling multiple indexes.
+**Thoughts**: Unit testing helped alot in creating this program. Remember to the process // given what you need to create to test (EXPECTED) // when is the method we are testing (ACTUAL) // then the assert that checks the expected and actual. 
 
 **Link(s) to work**: 
-1. [BlueJ.StringArrayUtils](https://github.com/julianrios/BlueJ.StringArrayUtils.git)
+1. [Maven.PhoneBook](https://github.com/julianrios/Maven.PhoneBook.git)
+2. [Maven.DiceyLab](https://github.com/julianrios/Maven.DiceyLab.git)
 
 
 <!-- ### Day 5: February 9, 2019 - Saturday 
