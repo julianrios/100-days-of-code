@@ -158,72 +158,137 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 
 ### Day 14: February 18, 2019 - Monday 
 
-**Today's Progress**: Completed a quiz based on various lessons covered throughout lastweek.
+**Today's Progress**: Completed assessment 1. This covered work throughout the last two weeks.
 
 **Thoughts:** The acronym method was tricky. Remember to utilize the java library before you try to reinvent the wheel some methods maybe available to simply problems. Also become more familiar with the Caesar cipher and other cipher methods. Completed one method to remove consecutive duplicates with an ArrayList need to figure out how to with an array.
 
 **Link(s) to work:** 
-1. [BlueJ.Quiz1](https://github.com/julianrios/BlueJ.Quiz1.git)
-2. [BlueJ.StringArrayUtils](https://github.com/julianrios/BlueJ.StringArrayUtils.git)
+1. [](https://github.com/julianrios/)
 
 
-<!-- ### Day 8: February 12, 2018 - Tuesday 
+### Day 15: February 19, 2018 - Tuesday 
 
-**Today's Progress**: Completed loop exercises involving while, for, and for each loops.
+**Today's Progress**: Started Dicey Lab 
 
-**Thoughts**: Learned that when looping through an array with for each the returned value is dependent on the type of object that the loop is iterating over. You must use .toString() on the returned type in order to get a string representation of it.
-
-**Link(s) to work**: 
-1. [BlueJ.IteratingPersonArray](https://github.com/julianrios/BlueJ.IteratingPersonArray.git)
-2. [BlueJ.StringArrayUtils](https://github.com/julianrios/BlueJ.StringArrayUtils.git)
-3. [Maven.StringsAndThings](https://github.com/julianrios/Maven.StringsAndThings.git)
-
-
-### Day 9: February 13, 2018 - Wednesday
-
-**Today's Progress**: Completed the remaining exercise on iterating through a String and started work on TDD.
-
-**Thoughts**: When using loops it is best practice to write it to see what every iteration is doing. Write out the string up to the index out of bounds. Remember as long as you don't access the index past the length you can not get out of bounds. When looping through an string try to be flexible work forward or backwards. If you are looking for a specific word look for the last letter and the letters before it to avoid checking something out of bounds.
+**Thoughts**: Ran into some implementation issues on how to track the number of times the sum of two dice appears.
 
 **Link(s) to work**: 
-1. [Maven.StringsAndThings](https://github.com/julianrios/Maven.StringsAndThings.git)
-2. [Maven.TestingPersonClass](https://github.com/Zipcoder/Maven.TestingPersonClass)
+1. [Maven.DiceyLab](https://github.com/julianrios/Maven.DiceyLab.git)
 
 
-### Day 10: February 14, 2018 - Thursday
+### Day 16: February 20, 2018 - Wednesday
 
-**Today's Progress**: Completed TDD exercises, revisited some old concepts, and dove deep into a new collection. Tested my abilities on hackerrank.
+**Today's Progress**: Spent the day reviewing material
 
-**Thoughts**: TDD is alittle strange at first but once I started to get used to the concept of testing before implement I can see why it is so important to test you code for an expected action before implementing methods to generate those actual results. Should get easier as I practice more.
-
-**Link(s) to work**: 
-1. [Maven.TDD-AnimalFactory](https://github.com/julianrios/Maven.TDD-AnimalFactory.git)
-2. [Maven.TestingPersonClass](https://github.com/julianrios/Maven.TestingPersonClass.git)
-3. [Hackerrank](https://www.hackerrank.com/julianrios_dev)
-
-
-### Day 11: February 15, 2018 - Friday
-
-**Today's Progress**: Worked on implementing unit tests before writing code. 
-
-**Thoughts**: Unit testing helped alot in creating this program. Remember to the process // given what you need to create to test (EXPECTED) // when is the method we are testing (ACTUAL) // then the assert that checks the expected and actual. 
+**Thoughts**: Took the day to review the fundamentals and things that weren't clear. Going through a process like this isn't easy so rather than rush into the next big topic. Let thinks sink in and revisit things that didn't the first time around.
 
 **Link(s) to work**: 
-1. [Maven.PhoneBook](https://github.com/julianrios/Maven.PhoneBook.git)
-2. [Maven.DiceyLab](https://github.com/julianrios/Maven.DiceyLab.git)
+1. [](https://github.com/julianrios/)
 
 
-### Day 12: February 16, 2019 - Saturday 
+### Day 17: February 21, 2018 - Thursday
 
-**Today's Progress**: Reviewed Past Labs and Notes
+**Today's Progress**: Created my own compareTo method to sort a collection
+
+**Thoughts**: I praticed with the compareTo method and used the Collections.sort method to sort the order by name if not equal and by type if they were equal.
+
+**Link(s) to work**: 
+1. [Maven.ComparablePets](https://github.com/julianrios/Maven.ComparablePets.git)
+
+
+### Day 18: February 22, 2018 - Friday
+
+**Today's Progress**: Peer programmed with another peer on a group project
+
+**Thoughts**: Peer programming is a powerful I learned a lot of things in a brief amount of time that would have taken me an extra amount of effort.
+
+**Link(s) to work**: 
+1. [Maven.Casino](https://github.com/julianrios/Maven.Casino.git)
+
+
+### Day 19: February 23, 2019 - Saturday 
+
+**Today's Progress**: Practiced more TDD and continued working on my group project
 
 **Thoughts:** Reflected on previous solutions and notes in preperation for exam. Need to incorporate this practice every few days to retain material better.
 
 **Link(s) to work:** 
-1. [Github-Repos](https://github.com/julianrios)
+1. [Maven.Casino](https://github.com/julianrios/Maven.Casino.git)
+2. [Maven.DiceyLab](https://github.com/julianrios/Maven.DiceyLab.git)
 
 
-### Day 13: February 17, 2018 - Sunday 
+<!-- ### Day 20: February 24, 2018 - Sunday 
+
+**Today's Progress**: Worked on CashMachine project in JavaFX
+
+**Thoughts**: JavaFX is similar to a web page the way event handlers are used. Need to better understand the component system and what is required to create applications in JavaFX. Just remember vbox, flowpane, stage, textfield, label, and lambdas. These are some fundamental pieces to constructing something in JavaFX.
+
+**Link(s) to work:** 
+1. [CashMachineWeekend](https://github.com/julianrios/CashMachineWeekend.git)
+ -->
+
+<!-- ### Day 14: February 18, 2019 - Monday 
+
+**Today's Progress**: Completed assessment 1. This covered work throughout the last two weeks.
+
+**Thoughts:** The acronym method was tricky. Remember to utilize the java library before you try to reinvent the wheel some methods maybe available to simply problems. Also become more familiar with the Caesar cipher and other cipher methods. Completed one method to remove consecutive duplicates with an ArrayList need to figure out how to with an array.
+
+**Link(s) to work:** 
+1. [](https://github.com/julianrios/)
+
+
+### Day 15: February 19, 2018 - Tuesday 
+
+**Today's Progress**: Started Dicey Lab 
+
+**Thoughts**: Ran into some implementation issues on how to track the number of times the sum of two dice appears.
+
+**Link(s) to work**: 
+1. [Maven.DiceyLab](https://github.com/julianrios/Maven.DiceyLab.git)
+
+
+### Day 16: February 20, 2018 - Wednesday
+
+**Today's Progress**: Spent the day reviewing material
+
+**Thoughts**: Took the day to review the fundamentals and things that weren't clear. Going through a process like this isn't easy so rather than rush into the next big topic. Let thinks sink in and revisit things that didn't the first time around.
+
+**Link(s) to work**: 
+1. [](https://github.com/julianrios/)
+
+
+### Day 17: February 21, 2018 - Thursday
+
+**Today's Progress**: Created my own compareTo method to sort a collection
+
+**Thoughts**: I praticed with the compareTo method and used the Collections.sort method to sort the order by name if not equal and by type if they were equal.
+
+**Link(s) to work**: 
+1. [Maven.ComparablePets](https://github.com/julianrios/Maven.ComparablePets.git)
+
+
+### Day 18: February 22, 2018 - Friday
+
+**Today's Progress**: Peer programmed with another peer on a group project
+
+**Thoughts**: Peer programming is a powerful I learned a lot of things in a brief amount of time that would have taken me an extra amount of effort.
+
+**Link(s) to work**: 
+1. [Maven.Casino](https://github.com/julianrios/Maven.Casino.git)
+
+
+### Day 19: February 23, 2019 - Saturday 
+
+**Today's Progress**: Practiced more TDD and continued working on my group project
+
+**Thoughts:** Reflected on previous solutions and notes in preperation for exam. Need to incorporate this practice every few days to retain material better.
+
+**Link(s) to work:** 
+1. [Maven.Casino](https://github.com/julianrios/Maven.Casino.git)
+2. [Maven.DiceyLab](https://github.com/julianrios/Maven.DiceyLab.git)
+
+
+### Day 20: February 24, 2018 - Sunday 
 
 **Today's Progress**: Worked on CashMachine project in JavaFX
 
