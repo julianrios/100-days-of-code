@@ -11,7 +11,7 @@
 2. [BlueJ.DanDoBetter](https://github.com/julianrios/BlueJ.DanDoBetter.git)
 
 
-### Day 1: February 5, 2018 - Tuesday 
+### Day 1: February 5, 2019 - Tuesday 
 
 **Today's Progress**: Completed exercises involving predicates, Strings, and math. Started to handle user input.
 
@@ -22,7 +22,7 @@
 2. [BlueJ.AliceAndBob](https://github.com/julianrios/BlueJ.AliceAndBob.git)
 
 
-### Day 2: February 6, 2018 - Wednesday
+### Day 2: February 6, 2019 - Wednesday
 
 **Today's Progress**: Completed exercises involving user input and started handling string formatting.
 
@@ -36,7 +36,7 @@ You must complete a level before you move on to the next world: 1-1 --> 1-2
 4. [BlueJ.NumbersTrianglesTables](https://github.com/julianrios/BlueJ.NumbersTrianglesTables.git)
 
 
-### Day 3: February 7, 2018 - Thursday
+### Day 3: February 7, 2019 - Thursday
 
 **Today's Progress**: Completed exercises involving Math operations with BigIntegers, converting numbers into String hex/octcal/binary, using static methods from the Math class.
 
@@ -46,7 +46,7 @@ You must complete a level before you move on to the next world: 1-1 --> 1-2
 1. [BlueJ.BasicComputations](https://github.com/julianrios/BlueJ.BasicComputations.git)
 
 
-### Day 4: February 8, 2018 - Friday
+### Day 4: February 8, 2019 - Friday
 
 **Today's Progress**: Worked on Traversing through an array 
 
@@ -67,7 +67,7 @@ You must complete a level before you move on to the next world: 1-1 --> 1-2
 2. [BlueJ.IOConsole](https://github.com/julianrios/BlueJ.IOConsole.git)
 
 
-### Day 6: February 10, 2018 - Sunday 
+### Day 6: February 10, 2019 - Sunday 
 
 **Today's Progress**: Demoed and submitted group final version of Scientific Calculator
 
@@ -90,7 +90,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 2. [BlueJ.StringArrayUtils](https://github.com/julianrios/BlueJ.StringArrayUtils.git)
 
 
-### Day 8: February 12, 2018 - Tuesday 
+### Day 8: February 12, 2019 - Tuesday 
 
 **Today's Progress**: Completed loop exercises involving while, for, and for each loops.
 
@@ -102,7 +102,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 3. [Maven.StringsAndThings](https://github.com/julianrios/Maven.StringsAndThings.git)
 
 
-### Day 9: February 13, 2018 - Wednesday
+### Day 9: February 13, 2019 - Wednesday
 
 **Today's Progress**: Completed the remaining exercise on iterating through a String and started work on TDD.
 
@@ -113,7 +113,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 2. [Maven.TestingPersonClass](https://github.com/Zipcoder/Maven.TestingPersonClass)
 
 
-### Day 10: February 14, 2018 - Thursday
+### Day 10: February 14, 2019 - Thursday
 
 **Today's Progress**: Completed TDD exercises, revisited some old concepts, and dove deep into a new collection. Tested my abilities on hackerrank.
 
@@ -125,7 +125,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 3. [Hackerrank](https://www.hackerrank.com/julianrios_dev)
 
 
-### Day 11: February 15, 2018 - Friday
+### Day 11: February 15, 2019 - Friday
 
 **Today's Progress**: Worked on implementing unit tests before writing code. 
 
@@ -146,7 +146,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [Github-Repos](https://github.com/julianrios)
 
 
-### Day 13: February 17, 2018 - Sunday 
+### Day 13: February 17, 2019 - Sunday 
 
 **Today's Progress**: Worked on CashMachine project in JavaFX
 
@@ -166,7 +166,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [](https://github.com/julianrios/)
 
 
-### Day 15: February 19, 2018 - Tuesday 
+### Day 15: February 19, 2019 - Tuesday 
 
 **Today's Progress**: Started Dicey Lab 
 
@@ -176,7 +176,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [Maven.DiceyLab](https://github.com/julianrios/Maven.DiceyLab.git)
 
 
-### Day 16: February 20, 2018 - Wednesday
+### Day 16: February 20, 2019 - Wednesday
 
 **Today's Progress**: Spent the day reviewing material
 
@@ -186,7 +186,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [](https://github.com/julianrios/)
 
 
-### Day 17: February 21, 2018 - Thursday
+### Day 17: February 21, 2019 - Thursday
 
 **Today's Progress**: Created my own compareTo method to sort a collection
 
@@ -196,7 +196,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [Maven.ComparablePets](https://github.com/julianrios/Maven.ComparablePets.git)
 
 
-### Day 18: February 22, 2018 - Friday
+### Day 18: February 22, 2019 - Friday
 
 **Today's Progress**: Peer programmed with another peer on a group project
 
@@ -217,47 +217,48 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 2. [Maven.DiceyLab](https://github.com/julianrios/Maven.DiceyLab.git)
 
 
-<!-- ### Day 20: February 24, 2018 - Sunday 
+### Day 20: February 24, 2019 - Sunday 
 
-**Today's Progress**: Worked on CashMachine project in JavaFX
+**Today's Progress**: Worked on BlackJack Game created methods to handle different aspects of the game with another peer.
 
-**Thoughts**: JavaFX is similar to a web page the way event handlers are used. Need to better understand the component system and what is required to create applications in JavaFX. Just remember vbox, flowpane, stage, textfield, label, and lambdas. These are some fundamental pieces to constructing something in JavaFX.
-
-**Link(s) to work:** 
-1. [CashMachineWeekend](https://github.com/julianrios/CashMachineWeekend.git)
- -->
-
-<!-- ### Day 14: February 18, 2019 - Monday 
-
-**Today's Progress**: Completed assessment 1. This covered work throughout the last two weeks.
-
-**Thoughts:** The acronym method was tricky. Remember to utilize the java library before you try to reinvent the wheel some methods maybe available to simply problems. Also become more familiar with the Caesar cipher and other cipher methods. Completed one method to remove consecutive duplicates with an ArrayList need to figure out how to with an array.
+**Thoughts**: Playing different versions of the game helped bring ideas together but I need to focus on mapping things out and sorting through those ideas to bridge the gap.
 
 **Link(s) to work:** 
-1. [](https://github.com/julianrios/)
+1. [Maven.Casino](https://github.com/julianrios/Maven.Casino.git)
 
 
-### Day 15: February 19, 2018 - Tuesday 
+### Day 21: February 25, 2019 - Monday 
 
-**Today's Progress**: Started Dicey Lab 
+**Today's Progress**: Worked through some bugs that appeared when running the game.
 
-**Thoughts**: Ran into some implementation issues on how to track the number of times the sum of two dice appears.
+**Thoughts:** Don't be afraid to ask for help when you need it. Remember to print out a messsages like looping here when stuck in a loop. Look at others' implementation as a guide when tackling problems. Always try to break big problems into smaller ones.
+
+**Link(s) to work:** 
+1. [Maven.Casino](https://github.com/julianrios/Maven.Casino.git)
+
+
+### Day 22: February 26, 2019 - Tuesday 
+
+**Today's Progress**: Refactored BlackJack Game and wrote tests
+
+**Thoughts**: Testing first can be tough. But I need to practice it more to alleviate time spent working through bugs. When creating methods remember single purpose responsibility. Refactoring big methods into smaller ones with one purpose made the code more readable. Also using helper methods to call in multiple areas reduced duplicate code.
 
 **Link(s) to work**: 
-1. [Maven.DiceyLab](https://github.com/julianrios/Maven.DiceyLab.git)
+1. [Maven.Casino](https://github.com/julianrios/Maven.Casino.git)
 
 
-### Day 16: February 20, 2018 - Wednesday
+### Day 23: February 27, 2019 - Wednesday
 
-**Today's Progress**: Spent the day reviewing material
+**Today's Progress**: Resume writing, refactored blackjack game, completed quiz.
 
-**Thoughts**: Took the day to review the fundamentals and things that weren't clear. Going through a process like this isn't easy so rather than rush into the next big topic. Let thinks sink in and revisit things that didn't the first time around.
+**Thoughts**: When you complete any problems revisit the code, see how you can do it better ask others for help, and look at how other people did their implementations of the same problem.
 
 **Link(s) to work**: 
-1. [](https://github.com/julianrios/)
+1. [Maven.Casino](https://github.com/julianrios/Maven.Casino.git)
+2. [Maven.Cohort5-Quiz2](https://github.com/julianrios/Maven.Cohort5-Quiz2.git)
 
 
-### Day 17: February 21, 2018 - Thursday
+### Day 24: February 28, 2019 - Thursday
 
 **Today's Progress**: Created my own compareTo method to sort a collection
 
@@ -267,7 +268,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [Maven.ComparablePets](https://github.com/julianrios/Maven.ComparablePets.git)
 
 
-### Day 18: February 22, 2018 - Friday
+<!-- ### Day 18: February 22, 2019 - Friday
 
 **Today's Progress**: Peer programmed with another peer on a group project
 
@@ -288,7 +289,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 2. [Maven.DiceyLab](https://github.com/julianrios/Maven.DiceyLab.git)
 
 
-### Day 20: February 24, 2018 - Sunday 
+### Day 20: February 24, 2019 - Sunday 
 
 **Today's Progress**: Worked on CashMachine project in JavaFX
 
