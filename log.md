@@ -163,7 +163,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 **Thoughts:** The acronym method was tricky. Remember to utilize the java library before you try to reinvent the wheel some methods maybe available to simply problems. Also become more familiar with the Caesar cipher and other cipher methods. Completed one method to remove consecutive duplicates with an ArrayList need to figure out how to with an array.
 
 **Link(s) to work:** 
-1. [](https://github.com/julianrios/)
+1. [Maven.Assessment1](https://github.com/julianrios/Maven.Assessment1.git)
 
 
 ### Day 15: February 19, 2019 - Tuesday 
@@ -183,7 +183,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 **Thoughts**: Took the day to review the fundamentals and things that weren't clear. Going through a process like this isn't easy so rather than rush into the next big topic. Let thinks sink in and revisit things that didn't the first time around.
 
 **Link(s) to work**: 
-1. [](https://github.com/julianrios/)
+1. [Github-Repo](https://github.com/julianrios/)
 
 
 ### Day 17: February 21, 2019 - Thursday
@@ -286,7 +286,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 **Thoughts:** Practiced some of my newly developed skills to help kids learn how to create their own tanks and battle them against AI generated tanks on JSBattle. Teaching is alot of fun! I enjoyed guiding them as we worked through the documentation to build battle tanks. The alexa skill we created as well was really simple and easy once getting past the initial startup process. The kids were creative with their names and implementations of their alexa bots. I need to find more of these types of events to give back to the community and help show other people how much fun coding can be.
 
 **Link(s) to work:** 
-1. https://www.facebook.com/events/route-9-library-innovation-center/io-tech-fest/299013197464346/
+1. [Tech Fest IO](https://www.facebook.com/events/route-9-library-innovation-center/io-tech-fest/299013197464346/)
 
 
 <!-- ### Day 27: March 3, 2019 - Sunday 
