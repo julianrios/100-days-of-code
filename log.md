@@ -260,15 +260,88 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 
 ### Day 24: February 28, 2019 - Thursday
 
-**Today's Progress**: Created my own compareTo method to sort a collection
+**Today's Progress**: Completed Assessment One and worked on Dicey Lab
 
-**Thoughts**: I praticed with the compareTo method and used the Collections.sort method to sort the order by name if not equal and by type if they were equal.
+**Thoughts**: Continue practicing with arrays and read more about the api. I need to start focusing my attention towards collections and work more with sets, maps, lists. Utilize the comparator and comparable to sort my types.
 
 **Link(s) to work**: 
-1. [Maven.ComparablePets](https://github.com/julianrios/Maven.ComparablePets.git)
+1. [Maven.Assessment1](https://github.com/julianrios/Maven.Assessment1.git)
+2. [Maven.DiceyLab](https://github.com/julianrios/Maven.DiceyLab.git)
 
 
-<!-- ### Day 18: February 22, 2019 - Friday
+### Day 25: March 1, 2019 - Friday
+
+**Today's Progress**: Finished implementation for Dicey Lab.
+
+**Thoughts**: This was a tough lab. Break the problem apart next time. It's okay to put all you code in one method if you find it difficult to break it apart. Just follow up with a refactor to clean up the code. Need to write more tests cases.
+
+**Link(s) to work**: 
+1. [Maven.DiceyLab](https://github.com/julianrios/Maven.DiceyLab.git)
+
+
+### Day 26: March 2, 2019 - Saturday 
+
+**Today's Progress**: Volunteered at IO Tech Fest helping kids code on JSBattle and create an Alexa Skill
+
+**Thoughts:** Practiced some of my newly developed skills to help kids learn how to create their own tanks and battle them against AI generated tanks on JSBattle. Teaching is alot of fun! I enjoyed guiding them as we worked through the documentation to build battle tanks. The alexa skill we created as well was really simple and easy once getting past the initial startup process. The kids were creative with their names and implementations of their alexa bots. I need to find more of these types of events to give back to the community and help show other people how much fun coding can be.
+
+**Link(s) to work:** 
+1. https://www.facebook.com/events/route-9-library-innovation-center/io-tech-fest/299013197464346/
+
+
+<!-- ### Day 27: March 3, 2019 - Sunday 
+
+**Today's Progress**: Worked on CashMachine project in JavaFX
+
+**Thoughts**: JavaFX is similar to a web page the way event handlers are used. Need to better understand the component system and what is required to create applications in JavaFX. Just remember vbox, flowpane, stage, textfield, label, and lambdas. These are some fundamental pieces to constructing something in JavaFX.
+
+**Link(s) to work:** 
+1. [CashMachineWeekend](https://github.com/julianrios/CashMachineWeekend.git)
+
+
+### Day 21: February 25, 2019 - Monday 
+
+**Today's Progress**: Worked through some bugs that appeared when running the game.
+
+**Thoughts:** Don't be afraid to ask for help when you need it. Remember to print out a messsages like looping here when stuck in a loop. Look at others' implementation as a guide when tackling problems. Always try to break big problems into smaller ones.
+
+**Link(s) to work:** 
+1. [Maven.Casino](https://github.com/julianrios/Maven.Casino.git)
+
+
+### Day 22: February 26, 2019 - Tuesday 
+
+**Today's Progress**: Refactored BlackJack Game and wrote tests
+
+**Thoughts**: Testing first can be tough. But I need to practice it more to alleviate time spent working through bugs. When creating methods remember single purpose responsibility. Refactoring big methods into smaller ones with one purpose made the code more readable. Also using helper methods to call in multiple areas reduced duplicate code.
+
+**Link(s) to work**: 
+1. [Maven.Casino](https://github.com/julianrios/Maven.Casino.git)
+
+
+### Day 23: February 27, 2019 - Wednesday
+
+**Today's Progress**: Resume writing, refactored blackjack game, completed quiz.
+
+**Thoughts**: When you complete any problems revisit the code, see how you can do it better ask others for help, and look at how other people did their implementations of the same problem.
+
+**Link(s) to work**: 
+1. [Maven.Casino](https://github.com/julianrios/Maven.Casino.git)
+2. [Maven.Cohort5-Quiz2](https://github.com/julianrios/Maven.Cohort5-Quiz2.git)
+
+
+### Day 24: February 28, 2019 - Thursday
+
+**Today's Progress**: Completed Assessment One and worked on Dicey Lab
+
+**Thoughts**: Continue practicing with arrays and read more about the api. I need to start focusing my attention towards collections and work more with sets, maps, lists. Utilize the comparator and comparable to sort my types.
+
+**Link(s) to work**: 
+1. [Maven.Assessment1](https://github.com/julianrios/Maven.Assessment1.git)
+2. [Maven.DiceyLab](https://github.com/julianrios/Maven.DiceyLab.git)
+
+
+### Day 25: March 1, 2019 - Friday
 
 **Today's Progress**: Peer programmed with another peer on a group project
 
@@ -278,9 +351,9 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [Maven.Casino](https://github.com/julianrios/Maven.Casino.git)
 
 
-### Day 19: February 23, 2019 - Saturday 
+### Day 26: March 2, 2019 - Saturday 
 
-**Today's Progress**: Practiced more TDD and continued working on my group project
+**Today's Progress**: Volunteered at IO Tech Fest helping kids code on JSBattle and create an Alexa Skill
 
 **Thoughts:** Reflected on previous solutions and notes in preperation for exam. Need to incorporate this practice every few days to retain material better.
 
@@ -289,7 +362,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 2. [Maven.DiceyLab](https://github.com/julianrios/Maven.DiceyLab.git)
 
 
-### Day 20: February 24, 2019 - Sunday 
+### Day 27: March 3, 2019 - Sunday 
 
 **Today's Progress**: Worked on CashMachine project in JavaFX
 
