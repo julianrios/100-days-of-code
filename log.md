@@ -143,7 +143,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 **Thoughts:** Reflected on previous solutions and notes in preperation for exam. Need to incorporate this practice every few days to retain material better.
 
 **Link(s) to work:** 
-1. [Github-Repos](https://github.com/julianrios)
+1. [Github-Repo](https://github.com/julianrios)
 
 
 ### Day 13: February 17, 2019 - Sunday 
@@ -281,22 +281,22 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 
 ### Day 26: March 2, 2019 - Saturday 
 
-**Today's Progress**: Volunteered at IO Tech Fest helping kids code on JSBattle and create an Alexa Skill
+**Today's Progress**: Volunteered at I/O Tech Fest helping kids code on JSBattle and create an Alexa Skill
 
 **Thoughts:** Practiced some of my newly developed skills to help kids learn how to create their own tanks and battle them against AI generated tanks on JSBattle. Teaching is alot of fun! I enjoyed guiding them as we worked through the documentation to build battle tanks. The alexa skill we created as well was really simple and easy once getting past the initial startup process. The kids were creative with their names and implementations of their alexa bots. I need to find more of these types of events to give back to the community and help show other people how much fun coding can be.
 
 **Link(s) to work:** 
-1. [Tech Fest IO](https://www.facebook.com/events/route-9-library-innovation-center/io-tech-fest/299013197464346/)
+1. [I/O Tech Fest](https://www.facebook.com/events/route-9-library-innovation-center/io-tech-fest/299013197464346/)
 
 
-<!-- ### Day 27: March 3, 2019 - Sunday 
+### Day 27: March 3, 2019 - Sunday 
 
-**Today's Progress**: Worked on CashMachine project in JavaFX
+**Today's Progress**: Cohort Code Wars Study Session for Assessment 2
 
-**Thoughts**: JavaFX is similar to a web page the way event handlers are used. Need to better understand the component system and what is required to create applications in JavaFX. Just remember vbox, flowpane, stage, textfield, label, and lambdas. These are some fundamental pieces to constructing something in JavaFX.
+**Thoughts**: Decided I needed a file of different methods I use alot. So I Created StringUtils, ArrayUtils, MiscUtils to help with future exams and tests. Cohort Code wars was a fun event to learn from my fellow team mates as well as teach what I knew very well.
 
 **Link(s) to work:** 
-1. [CashMachineWeekend](https://github.com/julianrios/CashMachineWeekend.git)
+1. [Utils](https://github.com/julianrios/Utils.git)
 
 
 ### Day 21: February 25, 2019 - Monday 
@@ -309,7 +309,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [Maven.Casino](https://github.com/julianrios/Maven.Casino.git)
 
 
-### Day 22: February 26, 2019 - Tuesday 
+<!-- ### Day 22: February 26, 2019 - Tuesday 
 
 **Today's Progress**: Refactored BlackJack Game and wrote tests
 
