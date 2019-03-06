@@ -291,35 +291,35 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 
 ### Day 27: March 3, 2019 - Sunday 
 
-**Today's Progress**: Cohort Code Wars Study Session for Assessment 2
+**Today's Progress**: Cohort Code Wars Study Session for Assessment 2 and made Utils package
 
-**Thoughts**: Decided I needed a file of different methods I use alot. So I Created StringUtils, ArrayUtils, MiscUtils to help with future exams and tests. Cohort Code wars was a fun event to learn from my fellow team mates as well as teach what I knew very well.
+**Thoughts**: Did so whiteboarding exercises that challenged what I knew and what I needed to research further. I had fun at this event these sort of interactive activities is a quick and fun way to learn. I also created a utils package I would like to develop more to handle a range of different problems I have encountered on a regular basis.
 
 **Link(s) to work:** 
 1. [Utils](https://github.com/julianrios/Utils.git)
 
 
-### Day 21: February 25, 2019 - Monday 
+### Day 28: March 5, 2019 - Monday 
 
-**Today's Progress**: Worked through some bugs that appeared when running the game.
+**Today's Progress**: Completed Assessment 2
 
-**Thoughts:** Don't be afraid to ask for help when you need it. Remember to print out a messsages like looping here when stuck in a loop. Look at others' implementation as a guide when tackling problems. Always try to break big problems into smaller ones.
+**Thoughts:** Assessemnt 2 was rough but I maded use of what I knew and applied it to knew concepts I learned. Creating a regex builder based on a string that was passed in was a really awesome idea. Continue to pass as many cases as you can and when you are done refactor to catch the missing test cases.
 
 **Link(s) to work:** 
-1. [Maven.Casino](https://github.com/julianrios/Maven.Casino.git)
+1. [Maven.Cohort5-Assessment2](https://github.com/julianrios/Maven.Cohort5-Assessment2.git)
 
 
-<!-- ### Day 22: February 26, 2019 - Tuesday 
+### Day 29: March 6, 2019 - Tuesday 
 
-**Today's Progress**: Refactored BlackJack Game and wrote tests
+**Today's Progress**: Created generic methods to handle array modification
 
-**Thoughts**: Testing first can be tough. But I need to practice it more to alleviate time spent working through bugs. When creating methods remember single purpose responsibility. Refactoring big methods into smaller ones with one purpose made the code more readable. Also using helper methods to call in multiple areas reduced duplicate code.
+**Thoughts**: The Java api is a powerful tool I need to study more and ask the right questions in order to solve some of these problems faster and simply. Work on breaking down the problem and sifting through the api to find the tool that I need.
 
 **Link(s) to work**: 
-1. [Maven.Casino](https://github.com/julianrios/Maven.Casino.git)
+1. [Maven.DuplicateDeleter](https://github.com/julianrios/Maven.DuplicateDeleter.git)
 
 
-### Day 23: February 27, 2019 - Wednesday
+<!-- ### Day 30: March 7, 2019 - Wednesday
 
 **Today's Progress**: Resume writing, refactored blackjack game, completed quiz.
 
@@ -330,7 +330,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 2. [Maven.Cohort5-Quiz2](https://github.com/julianrios/Maven.Cohort5-Quiz2.git)
 
 
-### Day 24: February 28, 2019 - Thursday
+### Day 31: March 8, 2019 - Thursday
 
 **Today's Progress**: Completed Assessment One and worked on Dicey Lab
 
@@ -341,7 +341,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 2. [Maven.DiceyLab](https://github.com/julianrios/Maven.DiceyLab.git)
 
 
-### Day 25: March 1, 2019 - Friday
+### Day 32: March 9, 2019 - Friday
 
 **Today's Progress**: Peer programmed with another peer on a group project
 
@@ -351,7 +351,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [Maven.Casino](https://github.com/julianrios/Maven.Casino.git)
 
 
-### Day 26: March 2, 2019 - Saturday 
+### Day 33: March 10, 2019 - Saturday 
 
 **Today's Progress**: Volunteered at IO Tech Fest helping kids code on JSBattle and create an Alexa Skill
 
@@ -362,7 +362,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 2. [Maven.DiceyLab](https://github.com/julianrios/Maven.DiceyLab.git)
 
 
-### Day 27: March 3, 2019 - Sunday 
+### Day 34: March 11, 2019 - Sunday 
 
 **Today's Progress**: Worked on CashMachine project in JavaFX
 
