@@ -299,7 +299,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [Utils](https://github.com/julianrios/Utils.git)
 
 
-### Day 28: March 5, 2019 - Monday 
+### Day 28: March 4, 2019 - Monday 
 
 **Today's Progress**: Completed Assessment 2
 
@@ -309,7 +309,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [Maven.Cohort5-Assessment2](https://github.com/julianrios/Maven.Cohort5-Assessment2.git)
 
 
-### Day 29: March 6, 2019 - Tuesday 
+### Day 29: March 5, 2019 - Tuesday 
 
 **Today's Progress**: Created generic methods to handle array modification
 
@@ -319,57 +319,72 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [Maven.DuplicateDeleter](https://github.com/julianrios/Maven.DuplicateDeleter.git)
 
 
-<!-- ### Day 30: March 7, 2019 - Wednesday
+### Day 30: March 6, 2019 - Wednesday
 
-**Today's Progress**: Resume writing, refactored blackjack game, completed quiz.
+**Today's Progress**: Collectively created a UML for Farmer Froilan group project and worked on Graded Student Lab
 
-**Thoughts**: When you complete any problems revisit the code, see how you can do it better ask others for help, and look at how other people did their implementations of the same problem.
-
-**Link(s) to work**: 
-1. [Maven.Casino](https://github.com/julianrios/Maven.Casino.git)
-2. [Maven.Cohort5-Quiz2](https://github.com/julianrios/Maven.Cohort5-Quiz2.git)
-
-
-### Day 31: March 8, 2019 - Thursday
-
-**Today's Progress**: Completed Assessment One and worked on Dicey Lab
-
-**Thoughts**: Continue practicing with arrays and read more about the api. I need to start focusing my attention towards collections and work more with sets, maps, lists. Utilize the comparator and comparable to sort my types.
+**Thoughts**: IntelliJ's uml format was easy to follow and helpful for layout ideas. Remember an intersect is doing something it is a contract where an abstact class exist but has defined behaviour (methods).
 
 **Link(s) to work**: 
-1. [Maven.Assessment1](https://github.com/julianrios/Maven.Assessment1.git)
-2. [Maven.DiceyLab](https://github.com/julianrios/Maven.DiceyLab.git)
+1. [Maven.GradedStudents](https://github.com/julianrios/Maven.GradedStudents.git)
+2. [Maven.FarmerFroilan](https://github.com/julianrios/Maven.FarmerFroilan.git)
 
 
-### Day 32: March 9, 2019 - Friday
+### Day 31: March 7, 2019 - Thursday
 
-**Today's Progress**: Peer programmed with another peer on a group project
+**Today's Progress**: Worked on GradedStudent
 
-**Thoughts**: Peer programming is a powerful I learned a lot of things in a brief amount of time that would have taken me an extra amount of effort.
+**Thoughts**: Tips for working through these labs look at the rpevious material if you encounter something you are sure about ask questions to find where the knowledge gap is.
 
 **Link(s) to work**: 
-1. [Maven.Casino](https://github.com/julianrios/Maven.Casino.git)
+1. [Maven.GradedStudents](https://github.com/julianrios/Maven.GradedStudents.git)
 
 
-### Day 33: March 10, 2019 - Saturday 
+### Day 32: March 8, 2019 - Friday
 
-**Today's Progress**: Volunteered at IO Tech Fest helping kids code on JSBattle and create an Alexa Skill
+**Today's Progress**: Worked on Duplicate Deleter practiced with streams.
 
-**Thoughts:** Reflected on previous solutions and notes in preperation for exam. Need to incorporate this practice every few days to retain material better.
+**Thoughts**: Starting to better understand streams but I need to read and watch more videos/documentation on functional interfaces. I don't quite understand the implementation of supplier, consumer, and incorporating lambdas into streams.
+
+**Link(s) to work**: 
+1. [Maven.DuplicateDeleter](https://github.com/julianrios/Maven.DuplicateDeleter.git)
+
+
+### Day 33: March 9, 2019 - Saturday 
+
+**Today's Progress**: Continued Group project Farmer Froilan
+
+**Thoughts:** Don't fully understand generics and collections as much as I like to but I'm going to review these topics over again. I was able to implement streams into the program to handle multiple creations of a specified object.
 
 **Link(s) to work:** 
-1. [Maven.Casino](https://github.com/julianrios/Maven.Casino.git)
-2. [Maven.DiceyLab](https://github.com/julianrios/Maven.DiceyLab.git)
+1. [Maven.FarmerFroilan](https://github.com/julianrios/Maven.FarmerFroilan.git)
 
 
 ### Day 34: March 11, 2019 - Sunday 
 
-**Today's Progress**: Worked on CashMachine project in JavaFX
+**Today's Progress**: Completed duplicate deleter 
 
-**Thoughts**: JavaFX is similar to a web page the way event handlers are used. Need to better understand the component system and what is required to create applications in JavaFX. Just remember vbox, flowpane, stage, textfield, label, and lambdas. These are some fundamental pieces to constructing something in JavaFX.
+**Thoughts**: Used same method implemented in integer class to handle deletion in string class. I would like to come back to this lab to handle the deletion generically. Once I get caught up on labs...
 
 **Link(s) to work:** 
-1. [CashMachineWeekend](https://github.com/julianrios/CashMachineWeekend.git)
+1. [Maven.DuplicateDeleter](https://github.com/julianrios/Maven.DuplicateDeleter.git)
 
 
- -->
+### Day 35: March 12, 2019 - Monday 
+
+**Today's Progress**: Worked through Quiz3
+
+**Thoughts**: This quiz was the toughest assessment of my skills yet. It was discouraging at first compared to my scores on the previous assessments but I learned that there is still a lot I don't know and that's okay. Just keep coding and learning one day you will be great!
+
+**Link(s) to work:** 
+1. [Maven.Quiz3.git](https://github.com/julianrios/Maven.Quiz3.git)
+
+
+### Day 35: March 13, 2019 - Tuesday 
+
+**Today's Progress**: Reviewing topics for Mock Interview
+
+**Thoughts**: I need to formulate concise one sentence answers for core java concepts with in depth example where I used them to show my deep understanding of given topics. I will post this to my github once it has been finalized.
+
+**Link(s) to work:** 
+1. [Github-Repo](https://github.com/julianrios/)
