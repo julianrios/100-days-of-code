@@ -360,7 +360,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [Maven.FarmerFroilan](https://github.com/julianrios/Maven.FarmerFroilan.git)
 
 
-### Day 34: March 11, 2019 - Sunday 
+### Day 34: March 10, 2019 - Sunday 
 
 **Today's Progress**: Completed duplicate deleter 
 
@@ -370,7 +370,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [Maven.DuplicateDeleter](https://github.com/julianrios/Maven.DuplicateDeleter.git)
 
 
-### Day 35: March 12, 2019 - Monday 
+### Day 35: March 11, 2019 - Monday 
 
 **Today's Progress**: Worked through Quiz3
 
@@ -380,7 +380,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [Maven.Quiz3.git](https://github.com/julianrios/Maven.Quiz3.git)
 
 
-### Day 35: March 13, 2019 - Tuesday 
+### Day 36: March 12, 2019 - Tuesday 
 
 **Today's Progress**: Reviewing topics for Mock Interview
 
@@ -388,3 +388,154 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 
 **Link(s) to work:** 
 1. [Github-Repo](https://github.com/julianrios/)
+
+
+<!-- ### Day 37: March 13, 2019 - Wednesday 
+
+**Today's Progress**: Worked through coding concepts 
+
+**Thoughts**: I need to formulate concise one sentence answers for core java concepts with in depth example where I used them to show my deep understanding of given topics. I will post this to my github once it has been finalized.
+
+**Link(s) to work:** 
+1. [Maven.GradedStudents](https://github.com/julianrios/Maven.GradedStudents.git)
+2. [Maven.DuplicateDeleter](https://github.com/julianrios/Maven.DuplicateDeleter.git)
+
+
+### Day 38: March 14, 2019 - Thursday 
+
+**Today's Progress**: Completed 
+
+**Thoughts**: I need to formulate concise one sentence answers for core java concepts with in depth example where I used them to show my deep understanding of given topics. I will post this to my github once it has been finalized.
+
+**Link(s) to work:** 
+1. [Maven.GradedStudents](https://github.com/julianrios/Maven.GradedStudents.git)
+2. [Maven.DuplicateDeleter](https://github.com/julianrios/Maven.DuplicateDeleter.git)
+
+
+### Day 39: March 15, 2019 - Friday 
+
+**Today's Progress**: Worked through coding concepts 
+
+**Thoughts**: I need to formulate concise one sentence answers for core java concepts with in depth example where I used them to show my deep understanding of given topics. I will post this to my github once it has been finalized.
+
+**Link(s) to work:** 
+1. [Maven.GradedStudents](https://github.com/julianrios/Maven.GradedStudents.git)
+2. [Maven.DuplicateDeleter](https://github.com/julianrios/Maven.DuplicateDeleter.git)
+
+ -->
+### Day 40: March 16, 2019 - Saturday 
+
+**Today's Progress**: Worked through the Pokemon MySQL   
+
+**Thoughts**: I was able to get through most of the lab but I still need to review the basic concepts for MySQL. I need to look over joining, relations, and the where clause.
+
+**Link(s) to work:** 
+1. [DataGrip.PokemonSqlLab](https://github.com/julianrios/DataGrip.PokemonSqlLab.git)
+
+
+### Day 41: March 17, 2019 - Sunday 
+
+**Today's Progress**: Completed SinglyLinked List, 
+
+**Thoughts**: I worked through the concept of singlylinkedlist with another peer. The idea of it was difficult at first but as we worked through the lab I feel much better about the whole idea of making a singly linked list from scratch. 
+
+**Link(s) to work:** 
+1. [Maven.SinglyLinkedList](https://github.com/julianrios/Maven.SinglyLinkedList.git)
+2. [DataGrip.PokemonSqlLab](https://github.com/julianrios/DataGrip.PokemonSqlLab.git)
+
+<!-- HERE -->
+<!-- ### Day 42: March 18, 2019 - Monday 
+
+**Today's Progress**: Worked through Quiz3
+
+**Thoughts**: This quiz was the toughest assessment of my skills yet. It was discouraging at first compared to my scores on the previous assessments but I learned that there is still a lot I don't know and that's okay. Just keep coding and learning one day you will be great!
+
+**Link(s) to work:** 
+1. [Maven.Quiz3.git](https://github.com/julianrios/Maven.Quiz3.git)
+
+
+### Day 43: March 19, 2019 - Tuesday 
+
+**Today's Progress**: Reviewing topics for Mock Interview
+
+**Thoughts**: I need to formulate concise one sentence answers for core java concepts with in depth example where I used them to show my deep understanding of given topics. I will post this to my github once it has been finalized.
+
+**Link(s) to work:** 
+1. [Github-Repo](https://github.com/julianrios/)
+
+
+### Day 44: March 20, 2019 - Wednesday 
+
+**Today's Progress**: Worked through coding concepts 
+
+**Thoughts**: I need to formulate concise one sentence answers for core java concepts with in depth example where I used them to show my deep understanding of given topics. I will post this to my github once it has been finalized.
+
+**Link(s) to work:** 
+1. [Maven.GradedStudents](https://github.com/julianrios/Maven.GradedStudents.git)
+2. [Maven.DuplicateDeleter](https://github.com/julianrios/Maven.DuplicateDeleter.git) -->
+<!-- END -->
+
+### Day 45: March 21, 2019 - Thursday 
+
+**Today's Progress**: Finished Regex Hamlet Parser  
+
+**Thoughts**: Doing TDD first really helped in completing this lab. When trying to find multiple instances of a pattern within a given string. Always use follow create a regex -> pattern(regex) -> matcher -> pattern.matcher(regex). This format is faster in the compiler than using string.matches(regex).
+
+**Link(s) to work:** 
+1. [Regex-Hamlet-Parser](https://github.com/julianrios/Regex-Hamlet-Parser.git)
+
+
+### Day 46: March 22, 2019 - Friday 
+
+**Today's Progress**: Multithreading to leak data.
+
+**Thoughts**: This was an interesting lab I learned that multithreading can lose data when to many threads are running in parallel with the same data. 
+
+**Link(s) to work:** 
+1. [MonkeysTypewritersOhMy](https://github.com/julianrios/MonkeysTypewritersOhMy.git)
+
+
+### Day 47: March 23, 2019 - Saturday 
+
+**Today's Progress**: Learned more about Machine Learning and its implementation process. 
+
+**Thoughts**: Researched information about what questions machine learning can and can't answer. I learned that machine learning is a subset of artificial intelligence and the two are different. The machine learning process is a continous process that improves the overall accurancy of the expected output.
+
+**Link(s) to work:** 
+1. [Machine Learning PP](https://docs.google.com/presentation/d/1LH9zjr85k5mT-BkMe-Q0vRshX_nruMh_xc2tMN2tGJA/edit#slide=id.g54728ef588_0_5)
+2. [MonkeysTypewritersOhMy](https://github.com/julianrios/MonkeysTypewritersOhMy.git)
+
+
+### Day 48: March 24, 2019 - Sunday 
+
+**Today's Progress**: Finished JSON Lab 2 
+
+**Thoughts**: Remember think use the object oriented concepts you learned with things in JavaScript. Once someone pointed me in that direction this lab became alittle bit easier. I should familiarize myself with XMLHttpRequest which is used to pull in data and JSON.parse(jsonFile). Both are key resources one pulls in data the other turns it into a readable format.
+
+**Link(s) to work:** 
+1. [JSON-Lab-2](https://github.com/julianrios/JSON-Lab-2.git)
+
+
+### Day 49: March 24, 2019 - Monday 
+
+**Today's Progress**: Worked through Maven Quiz 3 with notes  
+
+**Thoughts**: Having a readme this time made things alittle bit easier. I need to focus more on the areas I am struggling in multidimensional arrays, using enums, and collections. I also created a readme with lots of useful information on core java. I'd like to focus more on this to solidify concepts.
+
+**Link(s) to work:** 
+1. [Maven.Quiz3-1](https://github.com/julianrios/Maven.Quiz3-1.git)
+2. [Core-Java-Notes](https://github.com/julianrios/core-java-notes.git)
+
+
+<!-- 
+### Day 50: March 25, 2019 - Tuesday 
+
+**Today's Progress**: Completed 
+
+**Thoughts**: I need to formulate concise one sentence answers for core java concepts with in depth example where I used them to show my deep understanding of given topics. I will post this to my github once it has been finalized.
+
+**Link(s) to work:** 
+1. [Maven.GradedStudents](https://github.com/julianrios/Maven.GradedStudents.git)
+2. [Maven.DuplicateDeleter](https://github.com/julianrios/Maven.DuplicateDeleter.git)
+
+ -->
