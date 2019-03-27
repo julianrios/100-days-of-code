@@ -462,18 +462,18 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 
 **Link(s) to work:** 
 1. [Github-Repo](https://github.com/julianrios/)
-
-
+ -->
+ <!-- END -->
 ### Day 44: March 20, 2019 - Wednesday 
 
-**Today's Progress**: Worked through coding concepts 
+**Today's Progress**: Completed Maven Intro to Enums and JSON Lab 1
 
-**Thoughts**: I need to formulate concise one sentence answers for core java concepts with in depth example where I used them to show my deep understanding of given topics. I will post this to my github once it has been finalized.
+**Thoughts**: It was nice to get through both these labs without struggling too much. I would like to continue understanding both topics more before I can comfortable say I know them very well.
 
 **Link(s) to work:** 
-1. [Maven.GradedStudents](https://github.com/julianrios/Maven.GradedStudents.git)
-2. [Maven.DuplicateDeleter](https://github.com/julianrios/Maven.DuplicateDeleter.git) -->
-<!-- END -->
+1. [JSON-Lab-1](https://github.com/julianrios/JSON-Lab-1.git)
+2. [Maven.Intro-To-Enums](https://github.com/julianrios/Maven.Intro-To-Enums.git)
+
 
 ### Day 45: March 21, 2019 - Thursday 
 
@@ -516,7 +516,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [JSON-Lab-2](https://github.com/julianrios/JSON-Lab-2.git)
 
 
-### Day 49: March 24, 2019 - Monday 
+### Day 49: March 25, 2019 - Monday 
 
 **Today's Progress**: Worked through Maven Quiz 3 with notes  
 
@@ -527,15 +527,21 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 2. [Core-Java-Notes](https://github.com/julianrios/core-java-notes.git)
 
 
-<!-- 
-### Day 50: March 25, 2019 - Tuesday 
+### Day 50: March 26, 2019 - Tuesday 
 
-**Today's Progress**: Completed 
+**Today's Progress**: Learned about Spring Boot and did a mock interview
 
-**Thoughts**: I need to formulate concise one sentence answers for core java concepts with in depth example where I used them to show my deep understanding of given topics. I will post this to my github once it has been finalized.
+**Thoughts**: The mock interview was good practice. I need to work on my core java colletions, abstract classes, interfaces, solid, and four pillars. Know all of this like the back of your hand. Need to formulate concise definitions with examples. Spring boot looks challenging but I will be taking it one small chuck at a time reading over material online and compliment with plural site videos. Be prepared to be tested during interviews.
 
 **Link(s) to work:** 
-1. [Maven.GradedStudents](https://github.com/julianrios/Maven.GradedStudents.git)
-2. [Maven.DuplicateDeleter](https://github.com/julianrios/Maven.DuplicateDeleter.git)
+1. [Maven.Spring-BakeryAnnotations](https://github.com/julianrios/Maven.Spring-BakeryAnnotations.git)
 
- -->
+
+### Day 51: March 27, 2019 - Wednesday 
+
+**Today's Progress**: Learned about Spring Boot and did a mock interview
+
+**Thoughts**: The mock interview was good practice. I need to work on my core java colletions, abstract classes, interfaces, solid, and four pillars. Know all of this like the back of your hand. Need to formulate concise definitions with examples. Spring boot looks challenging but I will be taking it one small chuck at a time reading over material online and compliment with plural site videos. Be prepared to be tested during interviews.
+
+**Link(s) to work:** 
+1. [Maven.Spring-BakeryAnnotations](https://github.com/julianrios/Maven.Spring-BakeryAnnotations.git)
