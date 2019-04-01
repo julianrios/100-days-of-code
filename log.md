@@ -475,7 +475,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 2. [Maven.Intro-To-Enums](https://github.com/julianrios/Maven.Intro-To-Enums.git)
 
 
-### Day 45: March 21, 2019 - Thursday 
+<!-- ### Day 45: March 21, 2019 - Thursday 
 
 **Today's Progress**: Finished Regex Hamlet Parser  
 
@@ -545,3 +545,50 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 
 **Link(s) to work:** 
 1. [Maven.Spring-BakeryAnnotations](https://github.com/julianrios/Maven.Spring-BakeryAnnotations.git)
+
+### Day 52: March 21, 2019 - Thursday 
+
+**Today's Progress**: Finished Regex Hamlet Parser  
+
+**Thoughts**: Doing TDD first really helped in completing this lab. When trying to find multiple instances of a pattern within a given string. Always use follow create a regex -> pattern(regex) -> matcher -> pattern.matcher(regex). This format is faster in the compiler than using string.matches(regex).
+
+**Link(s) to work:** 
+1. [Regex-Hamlet-Parser](https://github.com/julianrios/Regex-Hamlet-Parser.git)
+ -->
+
+### Day 53: March 22, 2019 - Friday 
+
+**Today's Progress**: Studied Spring Boot and worked through an online demo
+
+**Thoughts**: Spring boot is still tough to wrap my head around. I need to immerse myself in the code to better digest the material. I understand dependecy injection but I don't quite get how the annocations are playing a role in this.
+
+
+### Day 54: March 23, 2019 - Saturday 
+
+**Today's Progress**: Attempted Python lab after skimming over some python material. 
+
+**Thoughts**: I will attempt this lab again after spending some time learning the language more. Definately break the problem down figure out how to use helper methods and how lists work in python.
+
+**Link(s) to work:** 
+1. [PythonLab1](https://github.com/julianrios/PythonLab1.git)
+
+
+### Day 55: March 24, 2019 - Sunday 
+
+**Today's Progress**: Completed a LeetCode problem and reviewed Quiz 3
+
+**Thoughts**: Completed a medium leetcode problem. Working through the problem without intellij was alittle difficult. I need to focus on more of these towards the end of the program. Write things out and use helper methods to make the problem smaller.
+
+**Link(s) to work:** 
+1. [Maven.Quiz3-1](https://github.com/julianrios/Maven.Quiz3-1.git)
+
+
+<!-- ### Day 56: March 25, 2019 - Monday 
+
+**Today's Progress**: Worked through Maven Quiz with notes  
+
+**Thoughts**: Having a readme this time made things alittle bit easier. I need to focus more on the areas I am struggling in multidimensional arrays, using enums, and collections. I also created a readme with lots of useful information on core java. I'd like to focus more on this to solidify concepts.
+
+**Link(s) to work:** 
+1. [Maven.Quiz](https://github.com/julianrios/Maven.Quiz3-1.git)
+ -->
