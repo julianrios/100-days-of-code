@@ -546,7 +546,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 **Link(s) to work:** 
 1. [Maven.Spring-BakeryAnnotations](https://github.com/julianrios/Maven.Spring-BakeryAnnotations.git)
 
-### Day 52: March 21, 2019 - Thursday 
+### Day 52: March 28, 2019 - Thursday 
 
 **Today's Progress**: Finished Regex Hamlet Parser  
 
@@ -556,14 +556,14 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [Regex-Hamlet-Parser](https://github.com/julianrios/Regex-Hamlet-Parser.git)
  -->
 
-### Day 53: March 22, 2019 - Friday 
+### Day 53: March 29, 2019 - Friday 
 
 **Today's Progress**: Studied Spring Boot and worked through an online demo
 
 **Thoughts**: Spring boot is still tough to wrap my head around. I need to immerse myself in the code to better digest the material. I understand dependecy injection but I don't quite get how the annocations are playing a role in this.
 
 
-### Day 54: March 23, 2019 - Saturday 
+### Day 54: March 30, 2019 - Saturday 
 
 **Today's Progress**: Attempted Python lab after skimming over some python material. 
 
@@ -573,7 +573,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [PythonLab1](https://github.com/julianrios/PythonLab1.git)
 
 
-### Day 55: March 24, 2019 - Sunday 
+### Day 55: March 31, 2019 - Sunday 
 
 **Today's Progress**: Completed a LeetCode problem and reviewed Quiz 3
 
@@ -583,7 +583,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [Maven.Quiz3-1](https://github.com/julianrios/Maven.Quiz3-1.git)
 
 
-### Day 56: March 25, 2019 - Monday 
+### Day 56: April 1, 2019 - Monday 
 
 **Today's Progress**: Worked through Maven Quiz 4 with my buddy Google  
 
