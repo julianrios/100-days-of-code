@@ -583,12 +583,11 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [Maven.Quiz3-1](https://github.com/julianrios/Maven.Quiz3-1.git)
 
 
-<!-- ### Day 56: March 25, 2019 - Monday 
+### Day 56: March 25, 2019 - Monday 
 
-**Today's Progress**: Worked through Maven Quiz with notes  
+**Today's Progress**: Worked through Maven Quiz 4 with my buddy Google  
 
-**Thoughts**: Having a readme this time made things alittle bit easier. I need to focus more on the areas I am struggling in multidimensional arrays, using enums, and collections. I also created a readme with lots of useful information on core java. I'd like to focus more on this to solidify concepts.
+**Thoughts**: I feel very good about how I did on this quiz. I was able to finish what I understood quickly and find understandable answers for areas I struggled in right away. I definitely have progressed alot from where I started but I still have alot more to learn. 
 
 **Link(s) to work:** 
-1. [Maven.Quiz](https://github.com/julianrios/Maven.Quiz3-1.git)
- -->
+1. [Maven.Quiz4](https://github.com/julianrios/Maven.Quiz4.git)
