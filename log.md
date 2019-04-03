@@ -600,12 +600,11 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [Maven.Spring-BakeryAnnotations](https://github.com/julianrios/Maven.Spring-BakeryAnnotations.git)
 
 
-<!-- ### Day 57: April 3, 2019 - Wednesday
+### Day 57: April 3, 2019 - Wednesday
 
-**Today's Progress**: Worked on Spring-BakeryAnnotations lab
+**Today's Progress**: Finished the Spring-BakeryAnnotations lab
 
-**Thoughts**: Stepping through this lab was alittle daunting at first. But I am starting to understand how the annotations are used for spring boot and speaking to the database and front end as a middle tier.
+**Thoughts**: I have a better understanding of the annotations required when building a web app now that I have stepped through each piece one at a time. Remember to allows have a controllers, models, repositories, and services package. Any annotations that you are unfamiliar with google!
 
 **Link(s) to work:** 
 1. [Maven.Spring-BakeryAnnotations](https://github.com/julianrios/Maven.Spring-BakeryAnnotations.git)
- -->
