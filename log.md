@@ -390,39 +390,36 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [Github-Repo](https://github.com/julianrios/)
 
 
-<!-- ### Day 37: March 13, 2019 - Wednesday 
+### Day 37: March 13, 2019 - Wednesday 
 
-**Today's Progress**: Worked through coding concepts 
+**Today's Progress**: Worked through a lab using streams
 
-**Thoughts**: I need to formulate concise one sentence answers for core java concepts with in depth example where I used them to show my deep understanding of given topics. I will post this to my github once it has been finalized.
+**Thoughts**: Streams are really cool! The tough part is understanding how they work at first. I want to learn them better to make my functions shorter and more readable.
 
 **Link(s) to work:** 
-1. [Maven.GradedStudents](https://github.com/julianrios/Maven.GradedStudents.git)
-2. [Maven.DuplicateDeleter](https://github.com/julianrios/Maven.DuplicateDeleter.git)
+1. [Maven.GenericArrayUtility](https://github.com/julianrios/Maven.GenericArrayUtility.git)
 
 
 ### Day 38: March 14, 2019 - Thursday 
 
-**Today's Progress**: Completed 
+**Today's Progress**:  Looked over the Pattern documentation in the Java API
 
-**Thoughts**: I need to formulate concise one sentence answers for core java concepts with in depth example where I used them to show my deep understanding of given topics. I will post this to my github once it has been finalized.
+**Thoughts**: The documentation was suprisingly very readable. I feel very comfortable when it comes to finding what I need to use this class. I want to get this level of understanding when it encounter anything.
 
 **Link(s) to work:** 
-1. [Maven.GradedStudents](https://github.com/julianrios/Maven.GradedStudents.git)
-2. [Maven.DuplicateDeleter](https://github.com/julianrios/Maven.DuplicateDeleter.git)
+1. [Regex-Hamlet-Parser](https://github.com/julianrios/Regex-Hamlet-Parser.git)
 
 
 ### Day 39: March 15, 2019 - Friday 
 
-**Today's Progress**: Worked through coding concepts 
+**Today's Progress**: Focused on reading material about MySQL
 
-**Thoughts**: I need to formulate concise one sentence answers for core java concepts with in depth example where I used them to show my deep understanding of given topics. I will post this to my github once it has been finalized.
+**Thoughts**: MySQL is an interesting Query language that is very powerful when it comes to adding, accessing, and managing content in a database. I would like to learn how to use it within the terminal once I learn more about the core fundamentals of the language.
 
 **Link(s) to work:** 
-1. [Maven.GradedStudents](https://github.com/julianrios/Maven.GradedStudents.git)
-2. [Maven.DuplicateDeleter](https://github.com/julianrios/Maven.DuplicateDeleter.git)
+1. [DataGrip.PokemonSqlLab](https://github.com/julianrios/DataGrip.PokemonSqlLab.git)
 
- -->
+
 ### Day 40: March 16, 2019 - Saturday 
 
 **Today's Progress**: Worked through the Pokemon MySQL   
@@ -475,7 +472,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 2. [Maven.Intro-To-Enums](https://github.com/julianrios/Maven.Intro-To-Enums.git)
 
 
-<!-- ### Day 45: March 21, 2019 - Thursday 
+### Day 45: March 21, 2019 - Thursday 
 
 **Today's Progress**: Finished Regex Hamlet Parser  
 
@@ -537,7 +534,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [Maven.Spring-BakeryAnnotations](https://github.com/julianrios/Maven.Spring-BakeryAnnotations.git)
 
 
-### Day 51: March 27, 2019 - Wednesday 
+<!-- ### Day 51: March 27, 2019 - Wednesday 
 
 **Today's Progress**: Learned about Spring Boot and did a mock interview
 
@@ -591,3 +588,24 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 
 **Link(s) to work:** 
 1. [Maven.Quiz4](https://github.com/julianrios/Maven.Quiz4.git)
+
+
+### Day 56: April 2, 2019 - Tuesday
+
+**Today's Progress**: Worked on Spring-BakeryAnnotations lab
+
+**Thoughts**: Stepping through this lab was alittle daunting at first. But I am starting to understand how the annotations are used for spring boot and speaking to the database and front end as a middle tier.
+
+**Link(s) to work:** 
+1. [Maven.Spring-BakeryAnnotations](https://github.com/julianrios/Maven.Spring-BakeryAnnotations.git)
+
+
+<!-- ### Day 57: April 3, 2019 - Wednesday
+
+**Today's Progress**: Worked on Spring-BakeryAnnotations lab
+
+**Thoughts**: Stepping through this lab was alittle daunting at first. But I am starting to understand how the annotations are used for spring boot and speaking to the database and front end as a middle tier.
+
+**Link(s) to work:** 
+1. [Maven.Spring-BakeryAnnotations](https://github.com/julianrios/Maven.Spring-BakeryAnnotations.git)
+ -->
