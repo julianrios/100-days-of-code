@@ -608,3 +608,16 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 
 **Link(s) to work:** 
 1. [Maven.Spring-BakeryAnnotations](https://github.com/julianrios/Maven.Spring-BakeryAnnotations.git)
+2. [Maven.Spring-BeansLearnerLab](https://github.com/julianrios/Maven.Spring-BeansLearnerLab.git)
+
+
+<!-- ### Day 58: April 4, 2019 - Thursday
+
+**Today's Progress**: Finished the Spring-BakeryAnnotations lab
+
+**Thoughts**: I have a better understanding of the annotations required when building a web app now that I have stepped through each piece one at a time. Remember to allows have a controllers, models, repositories, and services package. Any annotations that you are unfamiliar with google!
+
+**Link(s) to work:** 
+1. [Maven.Spring-BakeryAnnotations](https://github.com/julianrios/Maven.Spring-BakeryAnnotations.git)
+2. [Maven.Spring-BeansLearnerLab](https://github.com/julianrios/Maven.Spring-BeansLearnerLab.git)
+ -->
