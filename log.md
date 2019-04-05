@@ -611,13 +611,21 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 2. [Maven.Spring-BeansLearnerLab](https://github.com/julianrios/Maven.Spring-BeansLearnerLab.git)
 
 
-<!-- ### Day 58: April 4, 2019 - Thursday
+### Day 58: April 4, 2019 - Thursday
 
-**Today's Progress**: Finished the Spring-BakeryAnnotations lab
+**Today's Progress**: Working through Beans Learner Lab
 
-**Thoughts**: I have a better understanding of the annotations required when building a web app now that I have stepped through each piece one at a time. Remember to allows have a controllers, models, repositories, and services package. Any annotations that you are unfamiliar with google!
+**Thoughts**: I am starting to connect how beans and the IoC work with each other. The IoC handles instantiating, configuring and assembling objects aka beans. Dependency injection is how we can implement IoC, where the control being inverted is the setting of object’s dependencies.
 
 **Link(s) to work:** 
-1. [Maven.Spring-BakeryAnnotations](https://github.com/julianrios/Maven.Spring-BakeryAnnotations.git)
-2. [Maven.Spring-BeansLearnerLab](https://github.com/julianrios/Maven.Spring-BeansLearnerLab.git)
- -->
+1. [Maven.Spring-BeansLearnerLab](https://github.com/julianrios/Maven.Spring-BeansLearnerLab.git)
+
+
+<!-- ### Day 58: April 4, 2019 - Thursday
+
+**Today's Progress**: Working through Beans Learner Lab
+
+**Thoughts**: I am starting to connect how beans and the IoC work with each other. The IoC handles instantiating, configuring and assembling objects aka beans. Dependency injection is how we can implement IoC, where the control being inverted is the setting of object’s dependencies.
+
+**Link(s) to work:** 
+1. [Maven.Spring-BeansLearnerLab](https://github.com/julianrios/Maven.Spring-BeansLearnerLab.git) -->
