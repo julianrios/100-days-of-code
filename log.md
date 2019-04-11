@@ -590,7 +590,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [Maven.Quiz4](https://github.com/julianrios/Maven.Quiz4.git)
 
 
-### Day 56: April 2, 2019 - Tuesday
+### Day 57: April 2, 2019 - Tuesday
 
 **Today's Progress**: Worked on Spring-BakeryAnnotations lab
 
@@ -600,7 +600,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [Maven.Spring-BakeryAnnotations](https://github.com/julianrios/Maven.Spring-BakeryAnnotations.git)
 
 
-### Day 57: April 3, 2019 - Wednesday
+### Day 58: April 3, 2019 - Wednesday
 
 **Today's Progress**: Finished the Spring-BakeryAnnotations lab
 
@@ -611,7 +611,7 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 2. [Maven.Spring-BeansLearnerLab](https://github.com/julianrios/Maven.Spring-BeansLearnerLab.git)
 
 
-### Day 58: April 4, 2019 - Thursday
+### Day 59: April 4, 2019 - Thursday
 
 **Today's Progress**: Working through Beans Learner Lab
 
@@ -621,7 +621,74 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 1. [Maven.Spring-BeansLearnerLab](https://github.com/julianrios/Maven.Spring-BeansLearnerLab.git)
 
 
-<!-- ### Day 58: April 4, 2019 - Thursday
+<!-- ### Day 60: April 5, 2019 - Friday 
+
+**Today's Progress**: Studied Spring Boot and worked through an online demo
+
+**Thoughts**: Spring boot is still tough to wrap my head around. I need to immerse myself in the code to better digest the material. I understand dependecy injection but I don't quite get how the annocations are playing a role in this.
+
+
+### Day 61: April 6, 2019 - Saturday 
+
+**Today's Progress**: Attempted Python lab after skimming over some python material. 
+
+**Thoughts**: I will attempt this lab again after spending some time learning the language more. Definately break the problem down figure out how to use helper methods and how lists work in python.
+
+**Link(s) to work:** 
+1. [PythonLab1](https://github.com/julianrios/PythonLab1.git)
+
+
+### Day 62: April 7, 2019 - Sunday 
+
+**Today's Progress**: Completed a LeetCode problem and reviewed Quiz 3
+
+**Thoughts**: Completed a medium leetcode problem. Working through the problem without intellij was alittle difficult. I need to focus on more of these towards the end of the program. Write things out and use helper methods to make the problem smaller.
+
+**Link(s) to work:** 
+1. [Maven.Quiz3-1](https://github.com/julianrios/Maven.Quiz3-1.git)
+
+
+### Day 63: April 8, 2019 - Monday 
+
+**Today's Progress**: Worked through Maven Quiz 4 with my buddy Google  
+
+**Thoughts**: I feel very good about how I did on this quiz. I was able to finish what I understood quickly and find understandable answers for areas I struggled in right away. I definitely have progressed alot from where I started but I still have alot more to learn. 
+
+**Link(s) to work:** 
+1. [Maven.Quiz4](https://github.com/julianrios/Maven.Quiz4.git)
+
+
+### Day 64: April 9, 2019 - Tuesday
+
+**Today's Progress**: Worked on Spring-BakeryAnnotations lab
+
+**Thoughts**: Stepping through this lab was alittle daunting at first. But I am starting to understand how the annotations are used for spring boot and speaking to the database and front end as a middle tier.
+
+**Link(s) to work:** 
+1. [Maven.Spring-BakeryAnnotations](https://github.com/julianrios/Maven.Spring-BakeryAnnotations.git)
+ -->
+
+### Day 65: April 10, 2019 - Wednesday
+
+**Today's Progress**: Started work on Passion Project
+
+**Thoughts**: The initial start up was tougher than I expected. I want to layout what classes I need and make better user stories before I continue any further. The github project board will be a big help with finishing things and making sure I am on task. 
+
+**Link(s) to work:** 
+1. [Potato](https://github.com/julianrios/potato.git)
+
+
+<!-- ### Day 66: April 11, 2019 - Thursday
+
+**Today's Progress**: Working through Beans Learner Lab
+
+**Thoughts**: I am starting to connect how beans and the IoC work with each other. The IoC handles instantiating, configuring and assembling objects aka beans. Dependency injection is how we can implement IoC, where the control being inverted is the setting of object’s dependencies.
+
+**Link(s) to work:** 
+1. [Maven.Spring-BeansLearnerLab](https://github.com/julianrios/Maven.Spring-BeansLearnerLab.git) -->
+
+
+<!-- ### Day 67: April 12, 2019 - Friday
 
 **Today's Progress**: Working through Beans Learner Lab
 
