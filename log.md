@@ -696,3 +696,93 @@ or ```git pull [their url] master``` when merging dev to master ```push from dev
 
 **Link(s) to work:** 
 1. [Maven.Spring-BeansLearnerLab](https://github.com/julianrios/Maven.Spring-BeansLearnerLab.git) -->
+
+<!-- ### Day 26: March 2, 2019 - Saturday 
+
+**Today's Progress**: Volunteered at I/O Tech Fest helping kids code on JSBattle and create an Alexa Skill
+
+**Thoughts:** Practiced some of my newly developed skills to help kids learn how to create their own tanks and battle them against AI generated tanks on JSBattle. Teaching is alot of fun! I enjoyed guiding them as we worked through the documentation to build battle tanks. The alexa skill we created as well was really simple and easy once getting past the initial startup process. The kids were creative with their names and implementations of their alexa bots. I need to find more of these types of events to give back to the community and help show other people how much fun coding can be.
+
+**Link(s) to work:** 
+1. [I/O Tech Fest](https://www.facebook.com/events/route-9-library-innovation-center/io-tech-fest/299013197464346/)
+
+
+### Day 27: March 3, 2019 - Sunday 
+
+**Today's Progress**: Cohort Code Wars Study Session for Assessment 2 and made Utils package
+
+**Thoughts**: Did so whiteboarding exercises that challenged what I knew and what I needed to research further. I had fun at this event these sort of interactive activities is a quick and fun way to learn. I also created a utils package I would like to develop more to handle a range of different problems I have encountered on a regular basis.
+
+**Link(s) to work:** 
+1. [Utils](https://github.com/julianrios/Utils.git)
+
+
+### Day 28: March 4, 2019 - Monday 
+
+**Today's Progress**: Completed Assessment 2
+
+**Thoughts:** Assessemnt 2 was rough but I maded use of what I knew and applied it to knew concepts I learned. Creating a regex builder based on a string that was passed in was a really awesome idea. Continue to pass as many cases as you can and when you are done refactor to catch the missing test cases.
+
+**Link(s) to work:** 
+1. [Maven.Cohort5-Assessment2](https://github.com/julianrios/Maven.Cohort5-Assessment2.git)
+
+
+### Day 29: March 5, 2019 - Tuesday 
+
+**Today's Progress**: Created generic methods to handle array modification
+
+**Thoughts**: The Java api is a powerful tool I need to study more and ask the right questions in order to solve some of these problems faster and simply. Work on breaking down the problem and sifting through the api to find the tool that I need.
+
+**Link(s) to work**: 
+1. [Maven.DuplicateDeleter](https://github.com/julianrios/Maven.DuplicateDeleter.git)
+
+
+### Day 30: March 6, 2019 - Wednesday
+
+**Today's Progress**: Collectively created a UML for Farmer Froilan group project and worked on Graded Student Lab
+
+**Thoughts**: IntelliJ's uml format was easy to follow and helpful for layout ideas. Remember an intersect is doing something it is a contract where an abstact class exist but has defined behaviour (methods).
+
+**Link(s) to work**: 
+1. [Maven.GradedStudents](https://github.com/julianrios/Maven.GradedStudents.git)
+2. [Maven.FarmerFroilan](https://github.com/julianrios/Maven.FarmerFroilan.git)
+
+
+### Day 31: March 7, 2019 - Thursday
+
+**Today's Progress**: Worked on GradedStudent
+
+**Thoughts**: Tips for working through these labs look at the rpevious material if you encounter something you are sure about ask questions to find where the knowledge gap is.
+
+**Link(s) to work**: 
+1. [Maven.GradedStudents](https://github.com/julianrios/Maven.GradedStudents.git) -->
+
+
+### Day 74: April 19, 2019 - Friday 
+
+**Today's Progress**: Created method to get and delete all profiles.
+
+**Thoughts**: This was really good practice. I have a better understanding of how a Spring boot is running. The controller is accepting a request from the client and requesting that information from the service. The service is handling the logic of what to ask from the DB and returning the request to the controller. Then the controller is receiving that request and returning a HTTP response along with the response body to the client.
+
+**Link(s) to work:** 
+1. [MoneyThyme Server](https://github.com/julianrios/FullStack.MicroWebApplication-Server.gitt)
+
+
+### Day 75: April 20, 2019 - Saturday 
+
+**Today's Progress**: Displayed Profiles from Heroku Postgres server to Front End  
+
+**Thoughts**: This was challenging but what really helped was referring to tour of heroes tutorial. I was struggling with understanding how to how to have a component talk to the DB but I am starting see the connections. I would like to implement my next component from start to end to build up more connections. Study the code more and piece the gaps together. Remember to check chrome for http codes this helped in figuring out why an endpoint wasn't connecting to the front end.
+
+**Link(s) to work:** 
+1. [MoneyThyme Front End](https://github.com/julianrios/FullStack.MicroWebApplication-Client.git)
+
+
+### Day 76: April 21, 2019 - Sunday 
+
+**Today's Progress**: Cleaning up 100 days of code logs 
+
+**Thoughts**: Slow down. When things start to become increasing more difficult spend more time reflecting on the progress you've made. Use this log to find blcoks and gaps in your knowledge or things that you just kicked ass in that day.
+
+**Link(s) to work:** 
+1. [#100DaysOfCode](https://github.com/julianrios/100-days-of-code.git)
